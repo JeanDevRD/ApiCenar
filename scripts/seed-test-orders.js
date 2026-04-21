@@ -6,7 +6,7 @@ import Users from "../models/UserModel.js";
 import Commerce from "../models/CommerceModel.js";
 import Delivery from "../models/DeliveryModel.js";
 import Addresses from "../models/AddressModel.js";
-import Config from "../models/ConfigModel.js";
+import Config from "../models/ConfigurationModel.js";
 import { Roles } from "../utils/enums/roles.js";
 
 const TEST_TAG = "[TEST-ORDER]";
